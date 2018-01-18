@@ -1,0 +1,33 @@
+body
+{
+  font-size: 15pt;
+  
+  background-color:#000000;
+}
+.cnt
+{
+  background-color:#F6F4F4;
+ border-style: double;
+  width:90%;
+  border-radius:24px;
+  border-width:25px;
+ margin-left:25px;
+ margin-right:25px;
+}
+.cnt2
+{
+   background-color:#D0D0D0;
+  min-height:30%;
+  width:90%;
+  border-style:double;
+  border-radius:10px;
+margin-bottom:25px;
+}
+.techtoniktext
+{
+  background-color:#B2B2B2;
+ border-style: double;
+  width:90%;
+  border-radius:10px;
+margin-bottom:25px;
+}
